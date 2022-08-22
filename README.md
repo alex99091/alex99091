@@ -1,6 +1,3 @@
-README.md 소개
-# 
-
 ## ALEX KWAK
 
 
@@ -57,7 +54,6 @@ README.md 소개
 
 <div markdown="1">
  
-### [ACTIVITY]  
   > [algorithm] 
   > 
 
