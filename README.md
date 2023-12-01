@@ -5,6 +5,10 @@
 
 </div>
 
+### BackEnd Developer
+- Java / Spring / Oracle Implements
+- AWS / Jenkins
+
 ### iOS Developer
 - SwiftUI / UIKit / Interaction Implements 
 - Concurrency, Data structure, Algorithm 
