@@ -5,6 +5,13 @@
 
 </div>
 
+### Experience
+
+1 years ++ Huneed Technology: Customs Clearance Data Management
+1.5 years ++ Dielien Postnatal Care Center: Front-End/Web Publisher
+1.5 years ++ Lula Store: Contents Management
+2.5 years ++ Hyundai Card: Backend Engineering
+
 ### BackEnd Developer
 - Java / Spring / Oracle Implements
 - AWS / Jenkins
