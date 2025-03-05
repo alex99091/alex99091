@@ -12,9 +12,12 @@
 - 1.5 years ++ Lula Store: Contents Management
 - 2.5 years ++ Hyundai Card: Backend Engineering
 
-### BackEnd Developer
+### Java BackEnd Developer
 - Java / Spring / Oracle Implements
-- AWS / Jenkins
+- Hyundai Card Financial Network System
+
+### JavaScript Front End & Pusblisher
+- Javascript / PHP / CSS
 
 ### iOS Developer
 - SwiftUI / UIKit / Interaction Implements 
