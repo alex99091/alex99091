@@ -13,8 +13,7 @@
 - Javascript / PHP / CSS
 
 ### iOS Developer
-- SwiftUI / UIKit / Interaction Implements 
-- Concurrency, Data structure, Algorithm 
+- SwiftUI / UIKit
 
 ### Interest
 - Developing small Projects
