@@ -2,7 +2,7 @@
 
 ### 📌 **Professional Experience**
 
-- **Hyundai Card** _(2.5 years)_  
+- **Hyundai Card** _(2.5 years - current)_  
   **Role**: Backend Developer | **Tech Stack**: Java, Spring Boot, Spring Batch, Informatica, Oracle DB  
   Improved system performance and optimized batch processes.  
 
