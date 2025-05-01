@@ -35,4 +35,5 @@
 
 ### 🧑‍💻 **Languages Used**
 
-![Alex's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex99091&layout=compact&langs_count=10&theme=radical)
+![Alex's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=alex99091&theme=react-dark)
+
