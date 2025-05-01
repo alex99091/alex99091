@@ -1,37 +1,34 @@
+### Hi! There 👋
+
 ### 📌 **Professional Experience**
 
 - **Hyundai Card** _(2.5 years)_  
-  **Role**: Backend Developer | **Tech Stack**: Java, Spring Boot, Spring Batch, MyBatis, Oracle DB  
-  [Managed financial systems](https://github.com/alex99091/marketing-schedule-automation), [optimized batch processes](https://github.com/alex99091/snapshotError), and [improved system performance](https://github.com/alex99091/oracleHint) to handle high-volume transactions efficiently. 
+  **Role**: Backend Developer | **Tech Stack**: Java, Spring Boot, Spring Batch, Informatica, Oracle DB  
+  Improved system performance and optimized batch processes.  
 
 - **Lula Store** _(1 year)_  
-  **Role**: Content Management | **Tech Stack**: JavaScript, PHP, CSS  
-  Managed CMS, enhanced UI, and optimized content delivery.
+  **Role**: Content Management | **Tech Stack**: JavaScript, PHP  
+  Managed CMS and enhanced UI.
 
 - **Huneed Technology** _(1 year)_  
   **Role**: Data Management  
-  Managed large-scale import transactions, integrated SAP ERP with purchasing data, and led successful customs duty refunds, improving operational efficiency.
+  Managed import transactions and improved operational efficiency.
 
 - **Dielien Postnatal Care Center** _(1.5 years)_  
-  **Role**: Front-End Developer | **Tech Stack**: JavaScript, PHP, CSS  
-  Built responsive websites with cross-browser compatibility.
+  **Role**: Front-End Developer | **Tech Stack**: JavaScript, PHP  
+  Built responsive websites.
 
 ---
 
 ### 💻 **Technical Skills**
 
-- **Backend**: Java, Spring Boot, MyBatis, Oracle DB, Informatica
-- **Frontend**: JavaScript, React, HTML, CSS
-- **Mobile**: SwiftUI, UIKit
-- **Databases**: MySQL, MongoDB, Firebase
-- **Cloud & AI**: AWS, Python
+[![Java](https://img.shields.io/badge/Java-%23F7B731.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![Spring Batch](https://img.shields.io/badge/Spring_Batch-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-batch) [![Informatica](https://img.shields.io/badge/Informatica-%23FF4F00.svg?style=for-the-badge&logo=informatica&logoColor=white)](https://www.informatica.com/) [![Oracle DB](https://img.shields.io/badge/Oracle_DB-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 
 ---
 
 ### 🌟 **Interests & Projects**
 
-- **AI & Python simulations**: [AI Drone Simulator](https://github.com/alex99091/ai-drone-simulator-py)  
-- **AWS-based Real-time-applications**: [QuickTalk_AWS](https://github.com/alex99091/QuickTalk_AWS)  
-- **iOS projects**: [SwiftUI Exploration](https://github.com/alex99091/MovieVoyageur-iOS)
+- Focused on developing real-time systems with Kafka & WebSocket.  
+- Currently building AI-driven drone simulation and AWS-based real-time applications.
 
 ---
