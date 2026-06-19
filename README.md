@@ -3,18 +3,12 @@
 #### 📌 **Professional Experience**
 
 - **Hyundai Card** _(4 years - current)_  
-  **Role**: Backend Developer | **Tech Stack**: Java, Spring Boot, Spring Batch, Informatica, Oracle DB  
-  Improved system performance and optimized batch processes.  
+  **Role**: Server Developer
 
 - **Lula Store** _(1 year)_  
-  **Role**: Content Management | **Tech Stack**: JavaScript, PHP  
+  **Role**: Content Management
   Managed CMS and enhanced UI.
 
 - **Huneed Technology** _(1 year)_  
   **Role**: Data Management  
   Managed import transactions and improved operational efficiency.
-
-#### 🌟 **Interests & Projects**
-
-- Focused on developing real-time systems with Kafka & WebSocket.  
-- Currently building AI-driven drone simulation and AWS-based real-time applications.
